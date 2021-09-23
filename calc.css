@@ -1,0 +1,26 @@
+.whole{
+    width: 500px;
+    height: 500px;
+    background: rgb(247, 183, 146);
+    margin-left: 450px;
+    margin-top: 50px;
+}
+#disp{
+    width: 300px;
+    height: 51px;
+    margin-left: 72px;
+    margin-top: 48px;
+}
+.row{
+    padding: 10px;;
+    width: 500px;
+    margin-left: 72px;
+    
+}
+.btn{
+    width: 70px;
+    height:45px;
+    color: rgb(12, 12, 12);
+    background-color: rgb(150, 243, 155);
+
+}
